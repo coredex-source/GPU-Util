@@ -1,7 +1,7 @@
 # AMD GPU Fan Controller
 
 A Python utility to control fan speeds on AMD Radeon GPUs on Windows.
-    - I made this just cause my Mac Pro had an overheating issue and I required a proper solution.
+- I made this just cause my Mac Pro had an overheating issue and I required a proper solution.
 
 ## Requirements
 
