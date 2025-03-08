@@ -1,0 +1,5 @@
+/build
+/dist
+gpu_fan_controller.spec
+apple_display_brightness_controller.spec
+apple_brightness_settings.json
